@@ -1,0 +1,16 @@
+{
+    "name": "magical_arena_node",
+    "version": "1.0.0",
+    "description": "Magical Arena simulation where players fight until one loses all health.",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "mocha test"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "mocha": "^8.0.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
